@@ -47,6 +47,14 @@
 - 10) what is a most guest demands from hotel 
 - 11) how many hotel booking canceled per month
 - 12) which hotel prefered by which type of guest
+###Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
+
+- Bar Plot.
+- Scatter Plot.
+- Pie Chart.
+- Line Plot.
+- Heatmap.
+- Box Plot 
 # Conclusion
 - Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
 - Given that most of the guest are adults for both hotels then for improving return guest provide goods that adult guest like.
