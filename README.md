@@ -47,3 +47,12 @@
 - 10) what is a most guest demands from hotel 
 - 11) how many hotel booking canceled per month
 - 12) which hotel prefered by which type of guest
+# Conclusion
+- Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
+- Given that most of the guest are adults for both hotels then for improving return guest provide goods that adult guest like.
+- Most of the hotel bookings come from online segment . We should spend a significant amount for online advertisement.
+- Most of the hotel bookings come from Portugal and united Kingdom. We should spend a significant amount of our budget on those area.
+- We can see most of the people prefered bb and hb meal but in city hotel most of the people prefered bb and sc meal. Then for satisfaction of guest sepend money on advertisement of bb ,hb and sc meal
+- It seems city hotels got 42% cancel orders and resort hotels got 28% cancel orders
+- It seems city hotels get more cancel orders than resort hotels.most of the cancel order come from may , july and august month
+Most of the guest preferred room type A,D and E . we should develop this type of more rooms and improving service of this type of rooms.
