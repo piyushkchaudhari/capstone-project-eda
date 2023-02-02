@@ -3,7 +3,9 @@
 ### Explore and analyze the data to discover important factors that govern the bookings
 # Exploratory Data Analysis
  hotel: Name of hotel ( City or Resort)
+ 
  is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
+ 
  lead_time: time (in days) between booking transaction and actual arrival.
  arrival_date_year: Year of arrival
  arrival_date_month: month of arrival
