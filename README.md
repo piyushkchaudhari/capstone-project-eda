@@ -34,3 +34,16 @@
 - total_of_special_requests: total no. of special request.
 - reservation_status: Whether a customer has checked out or canceled,or not showed 
 - reservation_status_date: Date of making reservation status.
+# Exploratory Data Analysis
+- 1)  which type of hotel booking cancel a most
+- 2)  what is an average of daily price per month
+- 3)  hotel booking of each month
+- 4)  which segment is costumer belong to most per year
+- 5)  which type of meal seals a most
+- 6)  how many guest stay in hotel per year
+- 7)  From which country most guest come
+- 8)  how many guest is repeated 
+- 9)  which type of room guest most prefered
+- 10) what is a most guest demands from hotel 
+- 11) how many hotel booking canceled per month
+- 12) which hotel prefered by which type of guest
