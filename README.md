@@ -50,7 +50,6 @@
 ### Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
 
 - Bar Plot.
-- Scatter Plot.
 - Pie Chart.
 - Line Plot.
 - Heatmap.
