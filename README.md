@@ -54,7 +54,13 @@
 - Line Plot.
 - Heatmap.
 - Box Plot 
+# Data Vizualization
 ![Screenshot 2023-02-02 122926](https://user-images.githubusercontent.com/123857050/216254704-2d2cf506-6b10-464b-bd53-bd93cbd60035.png)
+![Screenshot 2023-02-02 123113](https://user-images.githubusercontent.com/123857050/216255066-aaa23a7c-9ce4-406d-9456-c2c843f236c7.png)
+![Screenshot 2023-02-02 123150](https://user-images.githubusercontent.com/123857050/216255104-3ad08721-75f0-4230-93b7-0d48936e825f.png)
+![Screenshot 2023-02-02 123230](https://user-images.githubusercontent.com/123857050/216255129-1bdc5730-78ec-4bea-aad9-0f1fdcf9b99a.png)
+
+
 # Conclusion
 - Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
 - Given that most of the guest are adults for both hotels then for improving return guest provide goods that adult guest like.
