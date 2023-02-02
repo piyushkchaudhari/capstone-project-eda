@@ -47,11 +47,6 @@
 - 10) what is a most guest demands from hotel 
 - 11) how many hotel booking canceled per month
 - 12) which hotel prefered by which type of guest
-- #bar chat for segment is costumer belong to most per year'
-costumer_belong_to.plot.bar(figsize=(16,7))
-plt.title('segment is costumer belong to most per year',fontweight="bold", size=20)
-plt.ylabel("Booking",size=14)
-plt.xlabel("Years",size=14)
 # Conclusion
 - Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.
 - Given that most of the guest are adults for both hotels then for improving return guest provide goods that adult guest like.
