@@ -2,7 +2,7 @@
 ### This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
 ### Explore and analyze the data to discover important factors that govern the bookings
 # Dataset
- hotel: Name of hotel ( City or Resort)/
+ hotel: Name of hotel ( City or Resort)//
  is_canceled: Whether the booking is canceled or not (0 for no canceled and 1 for canceled)
  
  lead_time: time (in days) between booking transaction and actual arrival.
